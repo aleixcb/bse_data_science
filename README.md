@@ -1,2 +1,2 @@
 # bse_data_science
-Repo for the data science project at BSE.
+Repo for the data science projects at BSE.
